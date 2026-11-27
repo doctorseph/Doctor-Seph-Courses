@@ -1,3 +1,8 @@
+For institutional licensing of my complete courses, please contact me at DrSeph@pm.me \
+For individual access to the complete courses, they will be made available for purchase
+
+For use of the material made openly available in this GitHub:
+
 All material in this GitHub repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
 You are free to:
