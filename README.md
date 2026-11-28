@@ -24,7 +24,7 @@ This project is intended to be a human-first endeavor
 
 ---
 
-#### Some positive feedback my students have given me during my professorship between 2022-2026:
+### Some positive feedback my students have given me during my professorship between 2022-2026:
 
 **Fall 2022**
 
@@ -64,6 +64,7 @@ This project is intended to be a human-first endeavor
 "Dr. Webster is a fantastic math professor!"
 
 **Spring 2026**
+
 "I thought he was really good." \
 "Learned very well in this class." \
 "This course was great." \
